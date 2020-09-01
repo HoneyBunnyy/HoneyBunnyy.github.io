@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/friends/index.html</loc>
+    
+    <lastmod>2020-09-01T05:14:42.859Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/categories/index.html</loc>
+    
+    <lastmod>2020-09-01T05:14:42.859Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/contact/index.html</loc>
+    
+    <lastmod>2020-09-01T05:14:42.859Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/tags/index.html</loc>
+    
+    <lastmod>2020-09-01T05:14:42.859Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/about/index.html</loc>
+    
+    <lastmod>2020-09-01T05:14:42.858Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/archives/index.html</loc>
+    
+    <lastmod>2020-09-01T05:14:42.858Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/2020/08/16/sort-algorithms/</loc>
+    
+    <lastmod>2020-09-01T05:14:42.856Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/2020/09/01/machine-learning-note-1/</loc>
     
     <lastmod>2020-09-01T05:14:42.856Z</lastmod>
@@ -23,58 +72,9 @@
   </url>
   
   <url>
-    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/2020/08/16/sort-algorithms/</loc>
-    
-    <lastmod>2020-09-01T04:33:41.338Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/friends/index.html</loc>
-    
-    <lastmod>2020-09-01T04:20:41.281Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/contact/index.html</loc>
-    
-    <lastmod>2020-09-01T03:58:31.910Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/about/index.html</loc>
-    
-    <lastmod>2020-09-01T03:34:53.933Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/categories/index.html</loc>
-    
-    <lastmod>2020-09-01T02:49:14.060Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/tags/index.html</loc>
-    
-    <lastmod>2020-09-01T02:49:14.060Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/archives/index.html</loc>
-    
-    <lastmod>2020-09-01T02:49:14.059Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://xiaxiangjie.gitee.io/Xiaxiangjie/404.html</loc>
     
-    <lastmod>2020-09-01T02:49:14.057Z</lastmod>
+    <lastmod>2020-09-01T05:14:42.854Z</lastmod>
     
   </url>
   
