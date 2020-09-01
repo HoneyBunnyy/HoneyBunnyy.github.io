@@ -1,4 +1,4 @@
-http://xiaxiangjie.gitee.io/Xiaxiangjie/2020/09/01/machine-learning-note-1/
-http://xiaxiangjie.gitee.io/Xiaxiangjie/2020/09/01/design-pattern-note-1/
-http://xiaxiangjie.gitee.io/Xiaxiangjie/2020/08/31/django/
-http://xiaxiangjie.gitee.io/Xiaxiangjie/2020/08/16/sort-algorithms/
+https://xiaxiangjie.gitee.io/2020/09/01/machine-learning-note-1/
+https://xiaxiangjie.gitee.io/2020/09/01/design-pattern-note-1/
+https://xiaxiangjie.gitee.io/2020/08/31/django/
+https://xiaxiangjie.gitee.io/2020/08/16/sort-algorithms/
